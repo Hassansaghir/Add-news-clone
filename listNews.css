@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse; /* This ensures no space between cell borders */
+    border: 2px solid black;
+}
+th{
+    padding-right: 100px;
+    padding-left: 100px;
+    border: 2px solid black;
+}
+
+.edit-button {
+        margin-right: 5px; /* Add margin between buttons */
+
+    }
+.left{
+        float: left;    
+}
+    /* Style for the delete button */
+.delete-button {
+        background-color: #ff0000;
+        color: #ffffff;
+        
+    }
+

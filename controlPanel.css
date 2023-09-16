@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+.top{
+    text-align: center;
+}
+.list{
+    margin-left:300px;
+}
+.list li{
+    margin-bottom:10px;
+}
